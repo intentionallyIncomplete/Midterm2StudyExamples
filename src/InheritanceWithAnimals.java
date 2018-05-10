@@ -17,8 +17,7 @@ public class InheritanceWithAnimals {
 		Animals tabby = new Cats("tabby", "salmon", "ball");
 		
 		acceptAnimal(tabby);
-		
-		
+
 	}
 	
 	public static void acceptAnimal(Animals randAnimal){

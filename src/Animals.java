@@ -6,6 +6,7 @@ public class Animals {
 	//accessible to any class
 	public String favFood = "Food";
 	
+	//could also be setter (setName)
 	protected final void changeName(String name){
 		this.name = name;
 	}
